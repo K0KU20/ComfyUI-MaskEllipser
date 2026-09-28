@@ -20,7 +20,7 @@
 
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/<your-username>/ComfyUI-MaskEllipser.git
+git clone https://github.com/K0KU20/ComfyUI-MaskEllipser.git
 ```
 
 重新啟動 ComfyUI。（選用：執行 `pip install -r requirements.txt` 安裝 `scipy`。）
