@@ -20,7 +20,7 @@ A tiny ComfyUI custom node that turns **rectangular (or any-shaped) masks into e
 
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/<your-username>/ComfyUI-MaskEllipser.git
+git clone https://github.com/K0KU20/ComfyUI-MaskEllipser.git
 ```
 
 Restart ComfyUI. (Optional: `pip install -r requirements.txt` for `scipy`.)
