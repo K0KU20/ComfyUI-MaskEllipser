@@ -1,0 +1,2 @@
+# Optional: faster connected-region labeling. The node works without it.
+scipy
